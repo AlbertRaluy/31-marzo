@@ -84,6 +84,18 @@ body{
 }
 
 /* Otras clases */
+
+.section-1 {
+    background-color: aqua;
+    text-align: center;
+}
+
+.section-2 {
+    background-color: blue;
+    text-align: center;
+}
+
+
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 .flex{
     display: flex;
